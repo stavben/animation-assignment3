@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/dev/animation/animation-asignment3/external/.cache/stb/CMakeFiles/stb-download"
+		},
+		{
+			"file" : "C:/dev/animation/animation-asignment3/external/.cache/stb/CMakeFiles/b84f6818eb3f69a0fc32614d935154a5/stb-download.rule"
+		},
+		{
+			"file" : "C:/dev/animation/animation-asignment3/external/.cache/stb/CMakeFiles/ac0731ad68c157fe478f521307c8d273/stb-download-complete.rule"
+		},
+		{
+			"file" : "C:/dev/animation/animation-asignment3/external/.cache/stb/CMakeFiles/f7437e353ef0128cf16334a44693e0a3/stb-download-build.rule"
+		},
+		{
+			"file" : "C:/dev/animation/animation-asignment3/external/.cache/stb/CMakeFiles/f7437e353ef0128cf16334a44693e0a3/stb-download-configure.rule"
+		},
+		{
+			"file" : "C:/dev/animation/animation-asignment3/external/.cache/stb/CMakeFiles/f7437e353ef0128cf16334a44693e0a3/stb-download-download.rule"
+		},
+		{
+			"file" : "C:/dev/animation/animation-asignment3/external/.cache/stb/CMakeFiles/f7437e353ef0128cf16334a44693e0a3/stb-download-install.rule"
+		},
+		{
+			"file" : "C:/dev/animation/animation-asignment3/external/.cache/stb/CMakeFiles/f7437e353ef0128cf16334a44693e0a3/stb-download-mkdir.rule"
+		},
+		{
+			"file" : "C:/dev/animation/animation-asignment3/external/.cache/stb/CMakeFiles/f7437e353ef0128cf16334a44693e0a3/stb-download-patch.rule"
+		},
+		{
+			"file" : "C:/dev/animation/animation-asignment3/external/.cache/stb/CMakeFiles/f7437e353ef0128cf16334a44693e0a3/stb-download-test.rule"
+		},
+		{
+			"file" : "C:/dev/animation/animation-asignment3/external/.cache/stb/CMakeFiles/f7437e353ef0128cf16334a44693e0a3/stb-download-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"stb-download"
+		],
+		"name" : "stb-download"
+	}
+}

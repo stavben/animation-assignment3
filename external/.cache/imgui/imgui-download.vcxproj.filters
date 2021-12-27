@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\dev\animation\animation-asignment3\external\.cache\imgui\CMakeFiles\0935475de597bc591a4d0027b1cff15d\imgui-download-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\dev\animation\animation-asignment3\external\.cache\imgui\CMakeFiles\0935475de597bc591a4d0027b1cff15d\imgui-download-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\dev\animation\animation-asignment3\external\.cache\imgui\CMakeFiles\0935475de597bc591a4d0027b1cff15d\imgui-download-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\dev\animation\animation-asignment3\external\.cache\imgui\CMakeFiles\0935475de597bc591a4d0027b1cff15d\imgui-download-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\dev\animation\animation-asignment3\external\.cache\imgui\CMakeFiles\0935475de597bc591a4d0027b1cff15d\imgui-download-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\dev\animation\animation-asignment3\external\.cache\imgui\CMakeFiles\0935475de597bc591a4d0027b1cff15d\imgui-download-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\dev\animation\animation-asignment3\external\.cache\imgui\CMakeFiles\0935475de597bc591a4d0027b1cff15d\imgui-download-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\dev\animation\animation-asignment3\external\.cache\imgui\CMakeFiles\0935475de597bc591a4d0027b1cff15d\imgui-download-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\dev\animation\animation-asignment3\external\.cache\imgui\CMakeFiles\706e2c0caad7d7cfad93037f3137e149\imgui-download-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\dev\animation\animation-asignment3\external\.cache\imgui\CMakeFiles\e003edeb6b022936702471a4af8dbd85\imgui-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\dev\animation\animation-asignment3\external\.cache\imgui\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\dev\animation\animation-asignment3\external\.cache\imgui\CMakeFiles\imgui-download" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{39EF5E95-CEB3-3190-AA56-E91D74E60091}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

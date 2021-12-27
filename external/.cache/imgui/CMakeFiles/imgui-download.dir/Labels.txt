@@ -1,0 +1,14 @@
+# Target labels
+ imgui-download
+# Source files and their labels
+C:/dev/animation/animation-asignment3/external/.cache/imgui/CMakeFiles/imgui-download
+C:/dev/animation/animation-asignment3/external/.cache/imgui/CMakeFiles/e003edeb6b022936702471a4af8dbd85/imgui-download.rule
+C:/dev/animation/animation-asignment3/external/.cache/imgui/CMakeFiles/706e2c0caad7d7cfad93037f3137e149/imgui-download-complete.rule
+C:/dev/animation/animation-asignment3/external/.cache/imgui/CMakeFiles/0935475de597bc591a4d0027b1cff15d/imgui-download-build.rule
+C:/dev/animation/animation-asignment3/external/.cache/imgui/CMakeFiles/0935475de597bc591a4d0027b1cff15d/imgui-download-configure.rule
+C:/dev/animation/animation-asignment3/external/.cache/imgui/CMakeFiles/0935475de597bc591a4d0027b1cff15d/imgui-download-download.rule
+C:/dev/animation/animation-asignment3/external/.cache/imgui/CMakeFiles/0935475de597bc591a4d0027b1cff15d/imgui-download-install.rule
+C:/dev/animation/animation-asignment3/external/.cache/imgui/CMakeFiles/0935475de597bc591a4d0027b1cff15d/imgui-download-mkdir.rule
+C:/dev/animation/animation-asignment3/external/.cache/imgui/CMakeFiles/0935475de597bc591a4d0027b1cff15d/imgui-download-patch.rule
+C:/dev/animation/animation-asignment3/external/.cache/imgui/CMakeFiles/0935475de597bc591a4d0027b1cff15d/imgui-download-test.rule
+C:/dev/animation/animation-asignment3/external/.cache/imgui/CMakeFiles/0935475de597bc591a4d0027b1cff15d/imgui-download-update.rule

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/dev/animation/animation-asignment3/external/.cache/glfw/CMakeFiles/glfw-download"
+		},
+		{
+			"file" : "C:/dev/animation/animation-asignment3/external/.cache/glfw/CMakeFiles/9b13b02aeddc818982e3944ab656d11d/glfw-download.rule"
+		},
+		{
+			"file" : "C:/dev/animation/animation-asignment3/external/.cache/glfw/CMakeFiles/818058740fc6ae057fdb3509db8fcf65/glfw-download-complete.rule"
+		},
+		{
+			"file" : "C:/dev/animation/animation-asignment3/external/.cache/glfw/CMakeFiles/e464ef36a1d771e74b42c2a046ba941a/glfw-download-build.rule"
+		},
+		{
+			"file" : "C:/dev/animation/animation-asignment3/external/.cache/glfw/CMakeFiles/e464ef36a1d771e74b42c2a046ba941a/glfw-download-configure.rule"
+		},
+		{
+			"file" : "C:/dev/animation/animation-asignment3/external/.cache/glfw/CMakeFiles/e464ef36a1d771e74b42c2a046ba941a/glfw-download-download.rule"
+		},
+		{
+			"file" : "C:/dev/animation/animation-asignment3/external/.cache/glfw/CMakeFiles/e464ef36a1d771e74b42c2a046ba941a/glfw-download-install.rule"
+		},
+		{
+			"file" : "C:/dev/animation/animation-asignment3/external/.cache/glfw/CMakeFiles/e464ef36a1d771e74b42c2a046ba941a/glfw-download-mkdir.rule"
+		},
+		{
+			"file" : "C:/dev/animation/animation-asignment3/external/.cache/glfw/CMakeFiles/e464ef36a1d771e74b42c2a046ba941a/glfw-download-patch.rule"
+		},
+		{
+			"file" : "C:/dev/animation/animation-asignment3/external/.cache/glfw/CMakeFiles/e464ef36a1d771e74b42c2a046ba941a/glfw-download-test.rule"
+		},
+		{
+			"file" : "C:/dev/animation/animation-asignment3/external/.cache/glfw/CMakeFiles/e464ef36a1d771e74b42c2a046ba941a/glfw-download-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"glfw-download"
+		],
+		"name" : "glfw-download"
+	}
+}

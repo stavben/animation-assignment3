@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/dev/animation/animation-asignment3/external/.cache/glad/CMakeFiles/glad-download"
+		},
+		{
+			"file" : "C:/dev/animation/animation-asignment3/external/.cache/glad/CMakeFiles/53752f5303eb07a84349f3407a3df266/glad-download.rule"
+		},
+		{
+			"file" : "C:/dev/animation/animation-asignment3/external/.cache/glad/CMakeFiles/1eacc34b2a72a4444858da74f352639b/glad-download-complete.rule"
+		},
+		{
+			"file" : "C:/dev/animation/animation-asignment3/external/.cache/glad/CMakeFiles/c7c0a456f04ef71197c095afcda8b377/glad-download-build.rule"
+		},
+		{
+			"file" : "C:/dev/animation/animation-asignment3/external/.cache/glad/CMakeFiles/c7c0a456f04ef71197c095afcda8b377/glad-download-configure.rule"
+		},
+		{
+			"file" : "C:/dev/animation/animation-asignment3/external/.cache/glad/CMakeFiles/c7c0a456f04ef71197c095afcda8b377/glad-download-download.rule"
+		},
+		{
+			"file" : "C:/dev/animation/animation-asignment3/external/.cache/glad/CMakeFiles/c7c0a456f04ef71197c095afcda8b377/glad-download-install.rule"
+		},
+		{
+			"file" : "C:/dev/animation/animation-asignment3/external/.cache/glad/CMakeFiles/c7c0a456f04ef71197c095afcda8b377/glad-download-mkdir.rule"
+		},
+		{
+			"file" : "C:/dev/animation/animation-asignment3/external/.cache/glad/CMakeFiles/c7c0a456f04ef71197c095afcda8b377/glad-download-patch.rule"
+		},
+		{
+			"file" : "C:/dev/animation/animation-asignment3/external/.cache/glad/CMakeFiles/c7c0a456f04ef71197c095afcda8b377/glad-download-test.rule"
+		},
+		{
+			"file" : "C:/dev/animation/animation-asignment3/external/.cache/glad/CMakeFiles/c7c0a456f04ef71197c095afcda8b377/glad-download-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"glad-download"
+		],
+		"name" : "glad-download"
+	}
+}

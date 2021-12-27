@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\dev\animation\animation-asignment3\external\.cache\glfw\CMakeFiles\e464ef36a1d771e74b42c2a046ba941a\glfw-download-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\dev\animation\animation-asignment3\external\.cache\glfw\CMakeFiles\e464ef36a1d771e74b42c2a046ba941a\glfw-download-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\dev\animation\animation-asignment3\external\.cache\glfw\CMakeFiles\e464ef36a1d771e74b42c2a046ba941a\glfw-download-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\dev\animation\animation-asignment3\external\.cache\glfw\CMakeFiles\e464ef36a1d771e74b42c2a046ba941a\glfw-download-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\dev\animation\animation-asignment3\external\.cache\glfw\CMakeFiles\e464ef36a1d771e74b42c2a046ba941a\glfw-download-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\dev\animation\animation-asignment3\external\.cache\glfw\CMakeFiles\e464ef36a1d771e74b42c2a046ba941a\glfw-download-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\dev\animation\animation-asignment3\external\.cache\glfw\CMakeFiles\e464ef36a1d771e74b42c2a046ba941a\glfw-download-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\dev\animation\animation-asignment3\external\.cache\glfw\CMakeFiles\e464ef36a1d771e74b42c2a046ba941a\glfw-download-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\dev\animation\animation-asignment3\external\.cache\glfw\CMakeFiles\818058740fc6ae057fdb3509db8fcf65\glfw-download-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\dev\animation\animation-asignment3\external\.cache\glfw\CMakeFiles\9b13b02aeddc818982e3944ab656d11d\glfw-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\dev\animation\animation-asignment3\external\.cache\glfw\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\dev\animation\animation-asignment3\external\.cache\glfw\CMakeFiles\glfw-download" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B6DF2288-2911-355C-A57B-133B05A8FC1B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
